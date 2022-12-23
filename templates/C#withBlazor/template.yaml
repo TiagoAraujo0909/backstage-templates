@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: blazor-template
-  title: C# using Blazor Template
+  title: Blazor Template
   description: Create a new Blazor app
   tags:
     - cs
@@ -52,7 +52,7 @@ spec:
   # add in the docs template
   steps:
     - id: fetch
-      name: Template Docs Skeleton
+      name: Template Blazor
       action: fetch:template
       input:
         url: ./skeleton

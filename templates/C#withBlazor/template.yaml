@@ -5,11 +5,11 @@ metadata:
   title: C# using Blazor Template
   description: Create a new Blazor app
   tags:
-    - c#
+    - cs
     - blazor
 spec:
   owner: backstage/techdocs-core
-  type: documentation
+  type: service
 
   parameters:
     - title: Fill in some steps

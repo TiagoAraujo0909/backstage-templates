@@ -9,7 +9,7 @@ metadata:
     - blazor
 spec:
   owner: backstage/techdocs-core
-  type: service
+  type: app
 
   parameters:
     - title: Fill in some steps

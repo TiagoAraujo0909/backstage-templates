@@ -1,13 +1,12 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: docs-template
-  title: Documentation Template
-  description: Create a new standalone documentation project
+  name: blazor-template
+  title: C# using Blazor Template
+  description: Create a new Blazor app
   tags:
-    - recommended
-    - techdocs
-    - mkdocs
+    - c#
+    - blazor
 spec:
   owner: backstage/techdocs-core
   type: documentation

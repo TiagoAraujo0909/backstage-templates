@@ -8,7 +8,7 @@ metadata:
     - cs
     - react
 spec:
-  owner: devops
+  owner: devops/backstage
   type: app
   parameters:
     - title: Fill in some steps

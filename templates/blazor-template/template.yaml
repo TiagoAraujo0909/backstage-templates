@@ -51,7 +51,7 @@ spec:
   # add in the docs template
   steps:
     - id: fetch
-      name: Template Blazor
+      name: Creating Blazor template
       action: fetch:template
       input:
         url: ./skeleton

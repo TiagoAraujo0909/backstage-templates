@@ -11,7 +11,7 @@ spec:
   owner: devops/backstage
   type: app
   parameters:
-    - title: Fill in some steps
+    - title: Project Configuration
       required:
         - name
         - description
@@ -34,7 +34,7 @@ spec:
           ui:options:
             allowedKinds:
               - Group
-    - title: Choose a location
+    - title: Repository Configuration
       required:
         - repoUrl
       properties:

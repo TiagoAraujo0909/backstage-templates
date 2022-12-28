@@ -8,9 +8,8 @@ metadata:
     - cs
     - react
 spec:
-  owner: backstage/techdocs-core
+  owner: devops
   type: app
-
   parameters:
     - title: Fill in some steps
       required:

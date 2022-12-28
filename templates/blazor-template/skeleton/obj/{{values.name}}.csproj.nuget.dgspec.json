@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\${{values.name}}\\${{values.name}}\\${{values.name}}.csproj": {}
+    "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\{{values.name}}\\{{values.name}}\\{{values.name}}.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\${{values.name}}\\${{values.name}}\\${{values.name}}.csproj": {
+    "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\{{values.name}}\\{{values.name}}\\{{values.name}}.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\${{values.name}}\\${{values.name}}\\${{values.name}}.csproj",
-        "projectName": "${{values.name}}",
-        "projectPath": "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\${{values.name}}\\${{values.name}}\\${{values.name}}.csproj",
+        "projectUniqueName": "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\{{values.name}}\\{{values.name}}\\{{values.name}}.csproj",
+        "projectName": "{{values.name}}",
+        "projectPath": "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\{{values.name}}\\{{values.name}}\\{{values.name}}.csproj",
         "packagesPath": "C:\\Users\\tiago.araujo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\${{values.name}}\\${{values.name}}\\obj\\",
+        "outputPath": "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\Blazor\\{{values.name}}\\{{values.name}}\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago.araujo\\AppData\\Roaming\\NuGet\\NuGet.Config",

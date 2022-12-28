@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace my_new_app.Controllers;
+namespace __values.name__.Controllers;
 
 [ApiController]
 [Route("[controller]")]

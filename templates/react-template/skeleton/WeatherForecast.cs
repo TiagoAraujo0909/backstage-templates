@@ -1,4 +1,4 @@
-namespace my_new_app;
+namespace __values.name__;
 
 public class WeatherForecast
 {

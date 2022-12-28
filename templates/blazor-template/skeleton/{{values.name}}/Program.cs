@@ -1,4 +1,4 @@
-using ___values.name__.Data;
+using __values.name__.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 

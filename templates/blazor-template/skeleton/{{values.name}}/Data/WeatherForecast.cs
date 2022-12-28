@@ -1,4 +1,4 @@
-namespace ___values.name__.Data
+namespace __values.name__.Data
 {
     public class WeatherForecast
     {

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "16LMrvZLfMyAd5PQmpF2ABCXAmt2mSYAto39t78L/+heMNjEEZ2aiH57EpbprV4F23Di6xBKniSgG5jQrxi/5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiago.araujo\\Desktop\\Workspace\\backstage-devscope\\my-new-app\\my-new-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago.araujo\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.1\\microsoft.aspnetcore.spaproxy.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

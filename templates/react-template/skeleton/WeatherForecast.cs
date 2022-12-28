@@ -1,4 +1,4 @@
-namespace __values.name__;
+namespace ___values.name__;
 
 public class WeatherForecast
 {

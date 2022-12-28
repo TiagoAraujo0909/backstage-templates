@@ -6,4 +6,4 @@ metadata:
 spec:
   type: app
   lifecycle: experimental
-  owner: ${{ values.owner }}
+  owner: ${{ values.owner | dump}}

@@ -8,7 +8,7 @@ metadata:
     - cs
     - blazor
 spec:
-  owner: devops
+  owner: backstage
   type: app
   parameters:
     - title: Project Configuration
